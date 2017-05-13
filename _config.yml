@@ -1,0 +1,30 @@
+# top level stuff
+highlighter: rouge
+markdown: kramdown
+rdiscount:
+  extensions: [smart]
+permalink: /:title.html
+paginate: 5
+gems: [jekyll-paginate]
+port: 3000
+safe: true
+
+
+# site settings
+url: http://sana-ajani.github.io/
+baseurl: ""
+title: Sana Ajani
+author: Sana Ajani
+description: Personal blog and resume
+avatar: profile.png
+email: sajani6@gatech.edu.com
+github: sana-ajani
+twitter: sana_ajani
+linkedin: sanaajani
+# stackoverflow: username   #e.g: users/2735833/proton1h1
+disqus: sanaajani
+google_analytics: UA-87591804-1
+
+
+# needed for travis-ci build
+exclude: [vendor]

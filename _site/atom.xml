@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  
+    <title type="text" xml:lang="en">Sana Ajani</title>
+    <link type="application/atom+xml" rel="self" href="http://localhost:3000/atom.xml"/>
+  
+  <link href="http://localhost:3000/"/>
+  <id>http://localhost:3000/</id>
+  <updated>2017-05-13T18:41:53Z</updated>
+  <author>
+    <name>Sana Ajani</name>
+    <email>sajani6@gatech.edu.com</email>
+  </author>
+  <rights type="text">Copyright © 2017 Sana Ajani. All rights reserved.</rights>
+  
+  <entry>
+  <title type="text">new blog, who dis?</title>
+  <link rel="alternate" type="text/html" href="http://localhost:3000/post1.html" />
+  <id>http://localhost:3000/post1</id>
+  <published>2017-05-13T00:00:00Z</published>
+  <updated>2017-05-13T00:00:00Z</updated>
+  <content type="html"><![CDATA[ <h2 id="welcome-to-my-blog">Welcome to my blog!</h2>
+
+<p>Hello world!</p>
+ ]]></content>
+</entry>
+
+
+
+</feed>
