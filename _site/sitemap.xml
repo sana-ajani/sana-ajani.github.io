@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:3000/</loc>
-    <lastmod>2017-05-13T18:51:43-04:00</lastmod>
+    <lastmod>2017-05-13T19:22:07-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -24,7 +24,7 @@
   <url>
     <loc>http://localhost:3000/404</loc>
     
-      <lastmod>2017-05-13T18:51:43-04:00</lastmod>
+      <lastmod>2017-05-13T19:22:07-04:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -37,7 +37,7 @@
   <url>
     <loc>http://localhost:3000/atom.xml</loc>
     
-      <lastmod>2017-05-13T18:51:43-04:00</lastmod>
+      <lastmod>2017-05-13T19:22:07-04:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -50,7 +50,7 @@
   <url>
     <loc>http://localhost:3000/blog</loc>
     
-      <lastmod>2017-05-13T18:51:43-04:00</lastmod>
+      <lastmod>2017-05-13T19:22:07-04:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -63,7 +63,7 @@
   <url>
     <loc>http://localhost:3000/</loc>
     
-      <lastmod>2017-05-13T18:51:43-04:00</lastmod>
+      <lastmod>2017-05-13T19:22:07-04:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -76,7 +76,7 @@
   <url>
     <loc>http://localhost:3000/projects</loc>
     
-      <lastmod>2017-05-13T18:51:43-04:00</lastmod>
+      <lastmod>2017-05-13T19:22:07-04:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -89,7 +89,7 @@
   <url>
     <loc>http://localhost:3000/sitemap.xml</loc>
     
-      <lastmod>2017-05-13T18:51:43-04:00</lastmod>
+      <lastmod>2017-05-13T19:22:07-04:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
