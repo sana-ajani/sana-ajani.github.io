@@ -2,101 +2,101 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:3000/</loc>
-    <lastmod>2017-05-19T21:22:37-04:00</lastmod>
+    <lastmod>2017-05-20T02:20:10-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
-
+  
     <url>
-      <loc>http://localhost:3000/post1.html</loc>
-
-        <lastmod>2017-05-19T00:00:00-04:00</lastmod>
-
-
+      <loc>http://localhost:3000/new-blog-who-dis.html</loc>
+      
+        <lastmod>2017-05-19T13:15:00-04:00</lastmod>
+      
+      
         <changefreq>monthly</changefreq>
-
-
+      
+      
         <priority>0.5</priority>
-
+      
     </url>
-
-
+  
+  
   <url>
     <loc>http://localhost:3000/404</loc>
-
-      <lastmod>2017-05-19T21:22:37-04:00</lastmod>
-
-
+    
+      <lastmod>2017-05-20T02:20:10-04:00</lastmod>
+    
+    
       <changefreq>monthly</changefreq>
-
-
+    
+    
       <priority>0.3</priority>
-
+    
   </url>
-
+  
   <url>
     <loc>http://localhost:3000/atom.xml</loc>
-
-      <lastmod>2017-05-19T21:22:37-04:00</lastmod>
-
-
+    
+      <lastmod>2017-05-20T02:20:10-04:00</lastmod>
+    
+    
       <changefreq>monthly</changefreq>
-
-
+    
+    
       <priority>0.3</priority>
-
+    
   </url>
-
+  
   <url>
     <loc>http://localhost:3000/blog</loc>
-
-      <lastmod>2017-05-19T21:22:37-04:00</lastmod>
-
-
+    
+      <lastmod>2017-05-20T02:20:10-04:00</lastmod>
+    
+    
       <changefreq>monthly</changefreq>
-
-
+    
+    
       <priority>0.3</priority>
-
+    
   </url>
-
+  
   <url>
     <loc>http://localhost:3000/</loc>
-
-      <lastmod>2017-05-19T21:22:37-04:00</lastmod>
-
-
+    
+      <lastmod>2017-05-20T02:20:10-04:00</lastmod>
+    
+    
       <changefreq>monthly</changefreq>
-
-
+    
+    
       <priority>0.3</priority>
-
+    
   </url>
-
+  
   <url>
-    <loc>http://localhost:3000/projects/</loc>
-
-      <lastmod>2017-05-19T21:22:37-04:00</lastmod>
-
-
+    <loc>http://localhost:3000/projects</loc>
+    
+      <lastmod>2017-05-20T02:20:10-04:00</lastmod>
+    
+    
       <changefreq>monthly</changefreq>
-
-
+    
+    
       <priority>0.3</priority>
-
+    
   </url>
-
+  
   <url>
     <loc>http://localhost:3000/sitemap.xml</loc>
-
-      <lastmod>2017-05-19T21:22:37-04:00</lastmod>
-
-
+    
+      <lastmod>2017-05-20T02:20:10-04:00</lastmod>
+    
+    
       <changefreq>monthly</changefreq>
-
-
+    
+    
       <priority>0.3</priority>
-
+    
   </url>
-
+  
 </urlset>

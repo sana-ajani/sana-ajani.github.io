@@ -11,9 +11,9 @@ safe: true
 
 
 # site settings
-url: http://sana-ajani.github.io/
+url: "http://www.sana-ajani.me/"
 baseurl: ""
-title: Sana Ajani
+title: sana-ajani.me
 author: Sana Ajani
 description: Personal blog and resume
 avatar: profile.png
@@ -21,6 +21,7 @@ email: sajani6@gatech.edu.com
 github: sana-ajani
 twitter: sana_ajani
 linkedin: sanaajani
+timezone: America/New_York
 # stackoverflow: username   #e.g: users/2735833/proton1h1
 disqus: sana-ajani.me
 google_analytics: UA-87591804-1

@@ -168,6 +168,13 @@ body {
   font-size: 18px;
 }
 
+.projects {
+  width: auto;
+  max-width: 600px;
+  text-align: left;
+  margin: 0 auto -65px;
+}
+
 /* Footer
 -------------------------------------------------- */
 
