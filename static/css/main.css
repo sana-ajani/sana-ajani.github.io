@@ -175,6 +175,13 @@ body {
   margin: 0 auto -65px;
 }
 
+.photo-gallery {
+  width: auto;
+  max-width: 600px;
+  text-align: left;
+  margin: 0 auto -45px;
+}
+
 /* Footer
 -------------------------------------------------- */
 

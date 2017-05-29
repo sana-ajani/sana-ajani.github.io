@@ -43,4 +43,16 @@ layout: layout
 		</div>
 	</div>
 	{% include disqus.html %}
+	
+	{% if page.carousel %}
+	<div class="flexslider">
+	  <ul class="slides">
+		{% for slides in page.carousel %}
+		<li>
+		  <img src="{{ slides.image }}">
+		</li>
+		{% endfor %}
+	  </ul>
+	</div>
+	{% endif %}
 </div>
