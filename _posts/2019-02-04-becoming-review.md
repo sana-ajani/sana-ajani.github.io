@@ -20,7 +20,6 @@ She had to learn to take care of herself and love herself. There is no single de
 
 We can realize that while the world can be a messy and unfair place at times, it can also be an incredible and hopeful one. She’s able to transcend past the boundaries traditionally put around one’s ethnicity or childhood. Yes, she grew up in the South Side of Chicago. Yes, she was black. But she had ambition. She had self-awareness and confidence and values, the core of which told her to always treat people well. Michelle is true to the character and values that she was brought up on, reminding us that we must always carry ourselves with dignity and decency.
 
-
 ## Notable Quotes:
 - “I … recognize the more universal challenge of squaring who you are with where you come from and where you want to go.”
 - “Failure is a feeling long before it becomes an actual result. It’s vulnerability that breeds with self-doubt and then is escalated, often deliberately, by fear.”
