@@ -7,7 +7,7 @@ tags:
 date: 2019-02-02 11:20:00 +0000
 ---
 
-> One of my resolutions for 2019 is to read and write more, so my goal is to read at least one book per month and write a review about it. In  December 2018, I read **Becoming** by Michelle Obama.
+In  December 2018, I read **Becoming** by Michelle Obama.
 
 Michelle Obama is a fantastic storyteller. I felt comforted when reading about her childhood, her family, her values – it was all so relatable. I felt like I could see my own family and upbringing reflected in hers. What struck me the most was the Michelle was like me – an ordinary person who wanted to grow up and have a good job and her own healthy family. She grew up in middle-class family, one bounded together by love, but also discipline and awareness of where they had come from. Her parents invested everything in her and her brother, just like mine did for my sister and me. Somewhere between high school and college, you finally get it. You finally realize all the investment that your parents made in you, things you knew about it, and things you will quietly realize when you too choose to make those sacrifices for your children. Investment so we could have opportunities they never had. And Michelle realized it too. She goes to college and leans into experiences in order to awaken that boldness inside of her and reach for the life she wants. You grow up with immense gratefulness for the neighborhood you grew up in, your culture and race, your religion, your family, and you carry yourself in the present remembering that you are representing all these communities and identities.
 
@@ -19,7 +19,6 @@ She admitted that during marriage counseling, she realized that she would have t
 She had to learn to take care of herself and love herself. There is no single definition of beauty to ascribe to. If you’re tall and got big hips, that’s fine. Do not lose your wholesomeness, your values, your culture, your intellect in the pursuit of someone else’s expectation of “beauty”. Be you. Keep growing. Be confident.
 
 We can realize that while the world can be a messy and unfair place at times, it can also be an incredible and hopeful one. She’s able to transcend past the boundaries traditionally put around one’s ethnicity or childhood. Yes, she grew up in the South Side of Chicago. Yes, she was black. But she had ambition. She had self-awareness and confidence and values, the core of which told her to always treat people well. Michelle is true to the character and values that she was brought up on, reminding us that we must always carry ourselves with dignity and decency.
-
 
 
 ## Notable Quotes:
