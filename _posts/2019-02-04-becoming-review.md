@@ -18,7 +18,7 @@ She admitted that during marriage counseling, she realized that she would have t
 
 She had to learn to take care of herself and love herself. There is no single definition of beauty to ascribe to. If you’re tall and got big hips, that’s fine. Do not lose your wholesomeness, your values, your culture, your intellect in the pursuit of someone else’s expectation of “beauty”. Be you. Keep growing. Be confident.
 
-We can realize that while the world can be a messy and unfair place at times, it can also be an incredible and hopeful one. She’s able to transcend past the boundaries traditionally put around one’s ethnicity or childhood. Yes, she grew up in the South Side of Chicago. Yes, she was black. But she had ambition. She had self-awareness and confidence and values, the core of which told her to always treat people well. Michelle is true to the character and values that she was brought up on, reminding us that we must always carry ourselves with dignity and decency.
+We can realize that while the world can be a messy and unfair place at times, it can also be an incredible and hopeful one. She was able to transcend past the traditional boundaries put around one’s ethnicity or childhood. Yes, she grew up in the South Side of Chicago. Yes, she was black. But, she had ambition. She was self-aware, carrying her confidence and values with her everywhere, which ultimately guided her to always treat people well. Michelle is true to her character and values that she was brought up on, reminding us that we must always carry ourselves with dignity and decency.
 
 ## Notable Quotes:
 - “I … recognize the more universal challenge of squaring who you are with where you come from and where you want to go.”
