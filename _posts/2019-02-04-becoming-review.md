@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dec '18 Review - Becoming
+title: Becoming by Michelle Obama - Review
 
 tags:
 - Goals
