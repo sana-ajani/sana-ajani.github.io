@@ -7,7 +7,7 @@ tags:
 date: 2019-02-02 11:20:00 +0000
 ---
 
-In  December 2018, I read **Becoming** by Michelle Obama.
+At the end of 2018, I read **Becoming** by Michelle Obama.
 
 Michelle Obama is a fantastic storyteller. I felt comforted when reading about her childhood, her family, her values – it was all so relatable. I felt like I could see my own family and upbringing reflected in hers. What struck me the most was the Michelle was like me – an ordinary person who wanted to grow up and have a good job and her own healthy family. She grew up in middle-class family, one bounded together by love, but also discipline and awareness of where they had come from. Her parents invested everything in her and her brother, just like mine did for my sister and me. Somewhere between high school and college, you finally get it. You finally realize all the investment that your parents made in you, things you knew about it, and things you will quietly realize when you too choose to make those sacrifices for your children. Investment so we could have opportunities they never had. And Michelle realized it too. She goes to college and leans into experiences in order to awaken that boldness inside of her and reach for the life she wants. You grow up with immense gratefulness for the neighborhood you grew up in, your culture and race, your religion, your family, and you carry yourself in the present remembering that you are representing all these communities and identities.
 
